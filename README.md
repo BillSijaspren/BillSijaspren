@@ -62,6 +62,17 @@
 
 ---
 
+<div align="center">
+
+## 🎬 MY WORLD
+
+<img src="./bill_world_34s.gif" width="100%" alt="Bill's Animated World"/>
+
+</div>
+
+---
+
+
 # ⚡ SYSTEM CORE
 
 <table>
