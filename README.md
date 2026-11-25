@@ -61,14 +61,13 @@
 </div>
 
 ---
+---
+<h2 align="center">🎬 MY WORLD</h2>
 
 <div align="center">
-
-## 🎬 MY WORLD
-
-<img src="./bill_world_34s.gif" width="100%" alt="Bill's Animated World"/>
-
+  <img src="./bill_world_34s.gif" width="100%" alt="My World Animation">
 </div>
+---
 
 ---
 
