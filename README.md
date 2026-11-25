@@ -65,7 +65,11 @@
 <h2 align="center">🎬 MY WORLD</h2>
 
 <div align="center">
-  <img src="./bill_world_34s.gif" width="100%" alt="My World Animation">
+  <img
+    src="./bill_world_34s.gif"
+    width="100%"
+    alt="My World"
+  />
 </div>
 ---
 
