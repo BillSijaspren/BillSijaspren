@@ -62,10 +62,13 @@
 
 ---
 ---
+<h2 align="center">🎬 MY WORLD</h2>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/BillSijaspren/BillSijaspren/main/bill_world_34s.gif" width="100%" alt="My World">
 </div>
-```
+
+Ternyata cinta beda dimensi setulus itu ya apalagi cinta beda agama....
 
 ---
 
